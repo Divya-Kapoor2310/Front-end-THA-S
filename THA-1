@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+<title>Sample Letter</title>
+</head>
+<body bgcolor="yellow">
+<h1>SAMPLE LETTER FOR EVENT</h1>
+<p>KIET GROUP OF INSTITUTIONS<br>MuradNagar</p>
+<br><br>
+<p>30-May,2021<p>
+<br><br>
+<p>Divya Kapoor<br>Manager<br>CodeCamp<p>
+<p>B-358,<br>New Panchvati<br>Ghaziabad</p>
+<br><br>
+<p>Dear Mr. XYZ </p>
+<br><br>
+<p>With reference to our telephonic conversation today, I am writing this letter that codecamp is organising an event.<p>
+<br><br>
+<p>Please contact us if we can help you<p>
+<br><br>
+<p>Yours' Sincerely</p>
+<p> Divya</p>
+<p>Director: CodeCamp</p>
+</body>
+</html>
